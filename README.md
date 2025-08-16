@@ -12,6 +12,7 @@ Log your money
 - Customize Schema
 - Input using web app
 - PostgreSQL to store the record
+  Still deciding on this one. I'd like to use SQLite.
 - Back-end is Rest API
 - Show charts
 - Drilldown chart
