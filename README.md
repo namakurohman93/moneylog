@@ -1,0 +1,2 @@
+# moneylog
+Log your money 💰🪵
