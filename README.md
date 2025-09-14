@@ -28,3 +28,13 @@ that come close to it.
 
 So, instead of being stuck finding the engine (or parser), I started thinking about the front-end.
 
+### Front End
+For the front-end, there are a lot of option that I could use to build it.  
+But I have most experience with [antd](https://ant.design/ "antd").  
+Laying foundation for the front-end is quite challenging, since I also want to support customize theme  
+for my front-end.  
+I also have some experience with [styled-component](https://styled-components.com/ "styled-component").  
+I found using *styled-component* make styling component easier.
+
+On the current project, I always said to my team that styling the component will always the hardest part for me.  
+While working on component logic and business logic shouldn't be too hard for me.
